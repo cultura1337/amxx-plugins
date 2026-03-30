@@ -1,0 +1,2 @@
+# amxx-plugins
+for hns 
