@@ -7,7 +7,7 @@
 
 #define PLUGIN_NAME    "HNS Skill: Fall DMG"
 #define PLUGIN_VERSION "1.0"
-#define PLUGIN_AUTHOR  "you + cultura"
+#define PLUGIN_AUTHOR  "cultura"
 
 const FALL_MAX_HEAL       = 60;   // максимум HP за одно падение
 const Float:FALL_DELAY    = 0.5;  // задержка перед отхилом
