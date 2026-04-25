@@ -7,7 +7,7 @@
 
 #define PLUGIN_NAME    "HNS Skill: Toxic Gas (Optimized)"
 #define PLUGIN_VERSION "1.1"
-#define PLUGIN_AUTHOR  "cultura + GPT"
+#define PLUGIN_AUTHOR  "cultura"
 
 #define GAS_CLASSNAME  "hns_toxic_gas"
 #define GAS_MIN_LEVEL  5
