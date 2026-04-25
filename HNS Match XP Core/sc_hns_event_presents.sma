@@ -7,7 +7,7 @@
 #include <hns_xp_core>
 
 #define PLUGIN  "HNS EVENT: TAKE PRESENTS"
-#define VERSION "1.1 FINAL"
+#define VERSION "1.1"
 #define AUTHOR  "cultura"
 
 #define MAX_PRESENTS 32
