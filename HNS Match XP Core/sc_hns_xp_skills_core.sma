@@ -5,7 +5,7 @@
 
 #define PLUGIN_NAME    "HNS XP Skills Core"
 #define PLUGIN_VERSION "1.1"
-#define PLUGIN_AUTHOR  "cultura + GPT"
+#define PLUGIN_AUTHOR  "cultura"
 
 #define MAX_SKILLS      16
 #define MAX_SKILL_NAME  32
