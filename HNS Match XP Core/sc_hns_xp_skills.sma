@@ -6,7 +6,7 @@
 
 #define PLUGIN_NAME    "HNS XP Skills"
 #define PLUGIN_VERSION "0.7"
-#define PLUGIN_AUTHOR  "cultura + you"
+#define PLUGIN_AUTHOR  "cultura"
 
 // === SKILLS ENUM ===
 enum
